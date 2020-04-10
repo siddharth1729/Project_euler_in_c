@@ -1,4 +1,9 @@
 /*An Efficient code to print all the sum of all numbers that are multiples of 3 & 5 below N.*/
+/********************************************************************************************
+
+ author - siddharth pandey
+ 
+ ****************************************************************************************/
 
 #include <stdio.h>
 
